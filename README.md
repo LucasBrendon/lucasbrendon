@@ -5,8 +5,8 @@
 <br>
 <div>
   <a href="https://github.com/lucasbrendon">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbrendon&show_icons=true&theme=aura&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrendon&layout=compact&langs_count=7&theme=aura" />
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbrendon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrendon&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 <br><br>
 
