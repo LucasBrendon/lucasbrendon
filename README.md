@@ -4,10 +4,10 @@
 - 🌱 Atualmente estudando conceitos de SOLID, Design Patterns, Cloud Computing, tecnologias de mensageria, dentre outros temas.
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbrendon&show_icons=true&theme=synthwave&locale=pt-br&rank_icon=github&hide_title=true&card_width=340"/>
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbrendon&show_icons=true&theme=synthwave&locale=pt-br&rank_icon=github&hide_title=true"/>
+</a><br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbrendon&card_width=340&theme=radical&locale=pt-br&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbrendon&card_width=580&theme=radical&locale=pt-br&langs_count=8" />
 </a>
 <br><br>
 
