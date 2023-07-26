@@ -1,5 +1,5 @@
 
-<h1 align="center">💻 Olá! Seja bem vindo 💻</h1>
+<h1 align="center">💻 Seja bem vindo! 💻</h1>
 
 <p>✔️ Trabalho com desenvolvimento back-end, utilizando como linguagem de programação C#.</p>
 <p>✔️ Atualmente estudando conceitos de SOLID, Design Patterns, Cloud Computing, dentre outros temas.</p>
