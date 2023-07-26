@@ -7,10 +7,10 @@
 <div>
   <a href="https://github.com/lucasbrendon">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbrendon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrendon&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrendon&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" />
 </div>
 <br><br>
-
+    
 <div style="display: inline_block" align="center"> 
   <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="netcore" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
