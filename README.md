@@ -3,12 +3,11 @@
 - 🔭 Hoje trabalho com back-end, em específico utilizo como linguagem de programação C#.
 - 🌱 Atualmente estudando conceitos de SOLID, Design Patterns, Cloud Computing, tecnologias de mensageria, dentre outros temas.
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbrendon&show_icons=true&theme=synthwave&locale=pt-br&rank_icon=github&hide_title=true"/>
-</a><br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbrendon&card_width=580&theme=radical&locale=pt-br&langs_count=8" />
-</a>
+<div>
+  <a href="https://github.com/lucasbrendon">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbrendon&theme=synthwave&locale=pt-br&rank_icon=github&hide_title=true&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrendon&layout=compact&langs_count=7&theme=react" />
+</div>
 <br><br>
 
 <div style="display: inline_block"><br>
@@ -31,4 +30,6 @@
 <div>
   <a href = "mailto:lucasbrendon1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-brendon-a4894b19b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/lucasbrendon/lucasbrendon/blob/output/github-contribution-grid-snake.svg)
 </div>
